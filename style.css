@@ -57,6 +57,9 @@ body {
     font-size: 35px;
     font-weight: 550;
   }
+  .box1 {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
 
   body {
     background-size: contain;
