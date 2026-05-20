@@ -44,3 +44,14 @@ body {
   gap: 20px;
   font-weight: 550;
 }
+
+
+@media(max-width: 768px) {
+  .box1 {
+    /* height: 100vh; */
+  }
+  body {
+    background-size: contain;
+    background-repeat:round;
+  }
+}
