@@ -44,7 +44,10 @@ body {
 }
 
 @media (max-width: 768px) {
-
+  body {
+    background-image: url("night1.avif");
+    background-size: cover;
+  }
   .box1 h1 {
     font-size: 35px;
     font-weight: 550;
